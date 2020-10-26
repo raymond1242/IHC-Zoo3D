@@ -1,5 +1,8 @@
 # Zoo 3D
 
+## Enlace de la tienda virtual : 
+[](http://zoo3dwebpage.s3-website-us-east-1.amazonaws.com/)
+
 ### Curso Iteracción Humano Computador
 
 Proyecto de creación de un Zoológico 3D con realidad aumentada (AR)

@@ -1,7 +1,13 @@
 # Zoo 3D
 
+### Enlace para descargar el APK :
+![Enlace Drive del APK](https://drive.google.com/drive/folders/153lGJiRZrIdr10EkpHUWf8HF7KWhY3Zz?usp=sharing)
+
 ### Enlace de la tienda virtual : 
 [Enlace Tienda Online](http://zoo3dwebpage.s3-website-us-east-1.amazonaws.com/)
+
+### Enlace Video Demostración : 
+[Enlace Video YouTube](https://www.youtube.com/watch?v=vQUtKVUX3gk)
 
 ### Curso Iteracción Humano Computador
 

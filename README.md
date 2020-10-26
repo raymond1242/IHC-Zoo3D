@@ -4,3 +4,4 @@ Proyecto de creación de un Zoológico 3D con realidad aumentada (AR)
 
 ## Curso Iteracción Humano Computador
 
+![](img/MainScene.jpeg)
